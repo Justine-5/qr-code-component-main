@@ -17,6 +17,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
+### Links
+
+- Live Site URL: [Add live site URL here](https://justine-5.github.io/qr-code-component-main/)
+
 ## My process
 
 ### Built with
@@ -27,10 +31,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
--favicon is the icon for the page.
--it is better to link a font in html than importing in the css file.
--target="_blank" to open a link in a new tab.
--need to height:100% to center a div usinig flexbox:
+#### favicon is the icon for the page.
+#### it is better to link a font in html than importing in the css file.
+#### target="_blank" to open a link in a new tab.
+#### need to height:100% to center a div usinig flexbox:
+
 ```css
 html, body, main{
   background: hsl(212, 45%, 89%);
